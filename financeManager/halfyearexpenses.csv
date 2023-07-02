@@ -1,0 +1,61 @@
+id,month,expenses,cost
+1,2022-05,pet care,$41.58
+2,2023-06,gym,$98.37
+3,2022-06,school costs,$41.66
+4,2022-05,school costs,$97.53
+5,2022-10,entertainment,$45.25
+6,2022-07,iqama,$88.60
+7,2022-04,iqama,$61.11
+8,2022-09,health insurance,$43.90
+9,2022-10,entertainment,$76.27
+10,2022-01,school costs,$53.75
+11,2022-10,utility bills,$12.25
+12,2022-08,utility bills,$92.23
+13,2022-09,utility bills,$3.35
+14,2022-12,personal upkeep,$29.25
+15,2023-06,iqama,$53.42
+16,2022-04,utility bills,$21.35
+17,2023-05,pet care,$0.49
+18,2022-07,personal upkeep,$71.72
+19,2023-01,housing,$16.37
+20,2022-06,entertainment,$95.11
+21,2022-01,personal upkeep,$91.48
+22,2022-11,personal upkeep,$28.81
+23,2023-03,housing,$71.05
+24,2023-01,gym,$17.77
+25,2022-05,food,$21.72
+26,2022-08,gym,$48.82
+27,2022-09,health insurance,$81.50
+28,2022-01,iqama,$90.35
+29,2022-01,housing,$50.41
+30,2022-03,pet care,$44.08
+31,2022-03,iqama,$42.06
+32,2023-01,health insurance,$58.29
+33,2023-06,personal upkeep,$34.70
+34,2022-02,utility bills,$14.93
+35,2022-02,entertainment,$76.78
+36,2022-12,health insurance,$76.28
+37,2022-12,school costs,$0.63
+38,2022-05,health insurance,$47.70
+39,2022-04,iqama,$7.24
+40,2023-05,health insurance,$86.64
+41,2022-05,iqama,$9.88
+42,2023-01,utility bills,$39.22
+43,2022-04,school costs,$42.83
+44,2022-06,utility bills,$33.40
+45,2023-05,health insurance,$80.65
+46,2023-06,food,$77.14
+47,2023-02,health insurance,$45.34
+48,2023-02,gym,$50.66
+49,2023-02,pet care,$92.86
+50,2022-05,health insurance,$98.72
+51,2023-01,housing,$37.47
+52,2023-04,gym,$29.34
+53,2022-02,food,$89.28
+54,2022-10,utility bills,$25.50
+55,2022-02,entertainment,$11.79
+56,2022-03,health insurance,$80.31
+57,2022-12,school costs,$48.87
+58,2023-03,pet care,$79.16
+59,2023-05,gym,$20.14
+60,2022-01,entertainment,$83.97
